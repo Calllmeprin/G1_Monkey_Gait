@@ -11,21 +11,22 @@ This package provides an **Adversarial Motion Priors (AMP)** training environmen
 
 ## 📋 **Table of Contents**
 
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Training](#-training)
-- [Testing](#-testing--evaluation)
-- [Monitoring](#-monitoring-training)
-- [Configuration](#-configuration)
-- [Package Structure](#-package-structure)
-- [Performance & Hardware](#-performance--hardware-requirements)
-- [Troubleshooting](#-troubleshooting)
-- [Advanced Usage](#-advanced-usage)
-- [Contributing](#-contributing)
-- [Citation](#-citation)
-- [License](#-license)
-- [Contact](#-contact--support)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Training](#training)
+- [Testing & Evaluation](#testing--evaluation)
+- [Monitoring Training](#monitoring-training)
+- [Configuration](#configuration)
+- [Package Structure](#package-structure)
+- [Performance & Hardware Requirements](#performance--hardware-requirements)
+- [Troubleshooting](#troubleshooting)
+- [Advanced Usage](#advanced-usage)
+- [Contributing](#contributing)
+- [Citation](#citation)
+- [License](#license)
+- [Contact & Support](#contact--support)
+
 
 ---
 
